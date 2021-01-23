@@ -1,0 +1,4 @@
+sandali - admin page
+tharahie - registration and login
+kushadi - looking for a job
+me - hiring people
